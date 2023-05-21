@@ -6,3 +6,5 @@ Chat now: https://writerzingo.com/chat/
 Currently added:
 * Phind (from phind.com)
 * Claude (from anthorpic.com)
+
+Soon i will share script. Don't forget to give a star.
