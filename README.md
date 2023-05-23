@@ -14,6 +14,8 @@ Chat now: https://writerzingo.com/chat/
 **Google Help Me Write**
 ![image](https://github.com/Rizwan1231/GPT4FREE/assets/73514729/2c0c6835-47bf-4ed5-b122-22f2a1272177)
 
+![image](https://github.com/Rizwan1231/GPT4FREE/assets/73514729/04995fb0-3f88-499d-b8c3-0739619adcf6)
+
 Chat now: https://writerzingo.com/chat/
 
 Currently added:
