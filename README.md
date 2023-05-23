@@ -18,9 +18,15 @@ Chat now: https://writerzingo.com/chat/
 
 Chat now: https://writerzingo.com/chat/
 
+**Google Help me write email**
+![image](https://github.com/Rizwan1231/GPT4FREE/assets/73514729/b2dcbd00-f2d8-4a9a-a90b-9a539342438a)
+
+Chat now: https://writerzingo.com/chat/
+
 Currently added:
 * Phind (from phind.com)
 * Claude (from anthorpic.com)
-* HelpMeWrite (from google.com)
+* HelpMeWrite Docs (from google.com)
+* HelpMeWrite Email (from google.com)
 
 Soon i will share script. Don't forget to give a star.
