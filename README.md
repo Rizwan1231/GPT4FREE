@@ -23,6 +23,11 @@ Chat now: https://writerzingo.com/chat/
 
 Chat now: https://writerzingo.com/chat/
 
+**General Bot (for any task coding, translating, also can followup context)
+![image](https://github.com/Rizwan1231/GPT4FREE/assets/73514729/aa32d81f-c14a-4871-9c09-508bbf08908b)
+
+Chat now: https://writerzingo.com/chat/
+
 Currently added:
 * Phind (from phind.com)
 * Claude (from anthorpic.com)
