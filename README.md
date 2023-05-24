@@ -33,5 +33,6 @@ Currently added:
 * Claude (from anthorpic.com)
 * HelpMeWrite Docs (from google.com)
 * HelpMeWrite Email (from google.com)
+* General Bot (for any task. Also can follow a context)
 
 Soon i will share script. Don't forget to give a star.
