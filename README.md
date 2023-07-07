@@ -1,6 +1,8 @@
 # GPT4FREE
 GPT4FREE is a repository of reverse-engineered APIs for GPT-4/3.5 that can be used in place of OpenAI's official package. This repository provides a free and open-source way to access GPT-4/3.5, without the need for an OpenAI API key.
 
+Join us on Telegram: https://t.me/+K1WI9UR_6_VlMDFk
+
 **Claude Bot**
 ![image](https://github.com/Rizwan1231/GPT4FREE/assets/73514729/9df33a4e-296d-4f69-ae3d-b0793127b79c)
 
